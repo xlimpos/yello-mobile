@@ -1,0 +1,8 @@
+export{default as NameForm} from './NameForm'
+export{default as GenderForm} from './GenderForm'
+export{default as EmailForm} from './EmailForm'
+export{default as VerificationInfo} from './VerificationInfo'
+export{default as CreateUserNameForm} from './CreateUserNameForm'
+export{default as AddressForm} from './AddressForm'
+export{default as VerificationInfoCode} from './VerificationInfoCode'
+export{default as VerificationInfoActivated} from './VerificationInfoActivated'
